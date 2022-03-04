@@ -1,0 +1,3 @@
+C:/Users/Sammy/Documents/MINES/CSCI262/project1/cmake-build-debug/CMakeFiles/pathfinder.dir
+C:/Users/Sammy/Documents/MINES/CSCI262/project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sammy/Documents/MINES/CSCI262/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
